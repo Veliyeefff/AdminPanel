@@ -1,0 +1,12 @@
+i{
+    color: white;
+}
+a button{
+    margin-right: 10px;
+}
+
+.col-10{
+    display: flex !important;
+    align-items: center !important;
+    justify-content: center !important;
+}
